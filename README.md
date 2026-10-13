@@ -1,101 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aman Singh Patel</h1>
-<h3 align="center">AI/ML Engineer | GenAI & LLM Enthusiast | Building Intelligent Applications</h3>
+# Hi, I'm Aman Singh Patel 👋
 
-<p align="center">
-  <a href="https://github.com/siraman0177">
-    <img src="https://komarev.com/ghpvc/?username=siraman0177&label=Profile%20Views&color=0e75b6&style=flat"/>
-  </a>
-</p>
+### AI/ML Engineer | Machine Learning | LLM Applications
 
----
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, interested in building practical machine learning applications and AI-powered systems.
 
-## 🚀 About Me
+- 🔬 Interested in machine learning, LLMs, and retrieval-augmented generation
+- 🐍 Working with Python, SQL, and machine learning tools
+- 🧠 Exploring RAG, embeddings, and AI agent architectures
+- 📚 Learning backend engineering and system design
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+## Technical Skills
 
-💡 Interested in
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- Machine Learning
-- Backend Development
+**Languages:** Python, C++, JavaScript, SQL
 
-🌱 Currently Learning
-- LangGraph
-- Multi-Agent Systems
-- Advanced RAG
-- System Design
+**Machine Learning:** Scikit-learn, PyTorch, NumPy, Pandas
 
----
+**LLM Applications:** RAG, embeddings, vector databases, Ollama
 
-## 🛠 Tech Stack
+**Backend:** FastAPI, Node.js, Express
 
-### Languages
-Python • C++ • JavaScript • SQL
+**Databases:** MySQL, PostgreSQL, ChromaDB, FAISS
 
-### AI/ML
-PyTorch • Scikit-learn • Transformers • Hugging Face
+**Tools:** Git, GitHub, Docker, Jupyter, Linux
 
-### LLM
-LangChain • LangGraph • Ollama • RAG • Prompt Engineering
+## Featured Projects
 
-### Backend
-FastAPI • Node.js • Express
+### 🫀 Heart Disease Predictor
 
-### Database
-MySQL • PostgreSQL • ChromaDB • FAISS
+[View Repository](https://github.com/siraman0177/Heart-Disease-Predictor) · [Live Demo](https://the-heart-disease-predictor.streamlit.app/)
 
-### Tools
-Git • Docker • VS Code • Jupyter • Linux
+A machine learning web application that uses a K-Nearest Neighbors (KNN) model to estimate heart disease risk from user-provided health data.
 
----
-
-## ⭐ Featured Projects
+**Technologies:** Python, Streamlit, Pandas, NumPy, Scikit-learn, Joblib
 
 ### 📄 AI PDF RAG Assistant
-Chat with PDFs using RAG, LangChain and HuggingFace Embeddings.
 
-Tech:
-Python • LangChain • ChromaDB • FastAPI
+[View Repository](https://github.com/siraman0177/ai-pdf-rag-assistant)
 
----
+An AI project focused on PDF-based question answering. See the repository for the current implementation and setup details.
 
-### ⚖️ Legal Chatbot
-Intelligent legal assistant using LLMs and semantic search.
+### ⚖️ Legal AI Research
 
-Tech:
-Python • RAG • LLM
+[View Repository](https://github.com/siraman0177/Legal-AI-research_paper)
 
----
+Research repository related to AI and legal applications. Further details about the research, methodology, and my contribution should be documented in the repository.
 
-### 🤖 Multi-Agent AI Assistant
-Agentic AI using LangGraph for planning and reasoning.
+## Connect With Me
 
-Tech:
-LangGraph • Python
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siraman0177&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=siraman0177&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraman0177&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect
-
-LinkedIn:
-YOUR LINK
-
-Portfolio:
-YOUR PORTFOLIO
-
-Email:
-YOUR EMAIL
+- 💼 [LinkedIn](https://www.linkedin.com/in/aman-singh-patel-0b3a2127b/)
+- 💻 [GitHub](https://github.com/siraman0177)
+- 📧 [Email](mailto:amann.singh.patel@gmail.com)
